@@ -20,7 +20,7 @@
     <string name="OLevelPassMsg">You are qualify to TARUC student</string>
     <string name="OlevelFAIL">Sorry but you cant entry TARUC, you must get 5 subject pass, or get C on Math or English</string>
     <string name="TARUCFAIl">Sorry, but your SPM is not good enough to qualified, reason could be not enough subject to pass, bm and english didnt get C, or math did not get B</string>
-    <string name="UECFailMSG">Sorry But you need to pass more than 3 subjects, or get B and above on MATH</string>
+    <string name="UECFailMSG">Sorry But you need to get B On 3 or more subjects, or get B and above on MATH</string>
     <string name="ueccheck">UEC result checking, Only can enter A,B,C, or F</string>
     <string name="olevelcheck">O Level result checking, Only can enter A,B,C, or F</string>
 </resources>
