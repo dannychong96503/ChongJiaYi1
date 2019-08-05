@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Chong Jia Yi</string>
+    <string name="entry_requirements">Computer Science in Diploma - Entry Requirements For TARUC</string>
+    <string name="SPM">SPM</string>
+    <string name="O_Level">O Level</string>
+    <string name="UEC">UEC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account">Account</string>
+    <string name="BM">BM</string>
+    <string name="English">English</string>
+    <string name="math">Math</string>
+    <string name="Science">Science</string>
+    <string name="history">History</string>
+    <string name="Chinese">Chinese</string>
+    <string name="check">Check</string>
+    <string name="passMsg">You are qualify to TARUC student</string>
+    <string name="UECPassMsg">You Are qualify to TARUC student</string>
+    <string name="OLevelPassMsg">You are qualify to TARUC student</string>
+    <string name="OlevelFAIL">Sorry but you cant entry TARUC, you must get 5 subject pass, or get C on Math or English</string>
+    <string name="TARUCFAIl">Sorry, but your SPM is not good enough to qualified, reason could be not enough subject to pass, bm and english didnt get C, or math did not get B</string>
+    <string name="UECFailMSG">Sorry But you need to pass more than 3 subjects, or get B and above on MATH</string>
+    <string name="ueccheck">UEC result checking, Only can enter A,B,C, or F</string>
+    <string name="olevelcheck">O Level result checking, Only can enter A,B,C, or F</string>
+</resources>
